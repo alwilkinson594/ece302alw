@@ -1,0 +1,5 @@
+/home/alexis/Documents/ece302/homework/hw0/add/CMakeFiles/rebuild_cache.dir
+/home/alexis/Documents/ece302/homework/hw0/add/CMakeFiles/edit_cache.dir
+/home/alexis/Documents/ece302/homework/hw0/add/CMakeFiles/test.dir
+/home/alexis/Documents/ece302/homework/hw0/add/CMakeFiles/submission.dir
+/home/alexis/Documents/ece302/homework/hw0/add/CMakeFiles/add-tests.dir
